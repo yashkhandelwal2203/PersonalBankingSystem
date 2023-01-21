@@ -83,7 +83,7 @@ navbar-brand img {
   text-align: center;
   font-family: "Oxygen", sans-serif;
   padding: 10% 15%;
-  background-image: url('/background.gif');
+  background-image: url('background.gif');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
